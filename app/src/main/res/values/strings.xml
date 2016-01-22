@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alerta Paradero</string>
+    <string name="home_txt_paradero_hint">¿A dónde vamos?</string>
+    <string name="home_btn_ir_texto">Ir</string>
+    <string name="home_instruccion_1">Escribe el código del paradero al que vas (si lo conoces); o escribe la dirección a la que vas.</string>
+    <string name="home_instruccion_2">Si escribiste un código de paradero, verifica que sea el correcto; Si escribiste una dirección, busca el paradero más cercano en la lista.</string>
+    <string name="home_dialog_button_aceptar">Aceptar</string>
+    <string name="home_dialog_title_nadaquebuscar">UPS! Nada que buscar</string>
+    <string name="home_dialog_message_error1">Debes escribir el código de un paradero o una dirección para buscar.</string>
+    <string name="home_dialog_message_error2">No podemos buscar paraderos con tan poca información.</string>
+    <string name="home_codigo_paradero">Código paradero:</string>
+    <string name="home_dialog_paradero_no_encontrado_title">UPS! Paradero no encontrado</string>
+    <string name="title_activity_alarma_alerta_paradero">Alarma_alerta_paradero</string>
+
+    <string name="title_activity_launcher">Alerta Paradero</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alerta Paradero</string>
+    <string name="home_txt_paradero_hint">Where we go?</string>
+    <string name="home_btn_ir_texto">Go</string>
+    <string name="home_instruccion_1">Enter the code that you go whereabouts ( if you know ); or type the address where you are going .</string>
+    <string name="home_instruccion_2">If you write code whereabouts , verify that is correct; If you wrote an address , find the nearest whereabouts on the list.</string>
+    <string name="home_dialog_button_aceptar">Accept</string>
+    <string name="home_dialog_title_nadaquebuscar">UPS! Nothing to search</string>
+    <string name="home_dialog_message_error1">You must write the code for a location or an address to search.</string>
+    <string name="home_dialog_message_error2">We can not find bus stops with so little information.</string>
+
+</resources>
